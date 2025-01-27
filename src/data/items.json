@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "Item One",
+      "description": "Description for item one.",
+      "image": "https://jsonplaceholder.typicode.com/photos"
+    },
+    {
+      "id": 2,
+      "title": "Item Two",
+      "description": "Description for item two.",
+      "image": "https://jsonplaceholder.typicode.com/photos"
+    }
+  ]
+  
