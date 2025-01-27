@@ -8,6 +8,7 @@ npm (comes with Node.js)
 
 Setup Instructions:
 1.Install Dependencies
+
 Install the required npm packages by running:
 npm install
 npm install react react-dom
