@@ -1,7 +1,10 @@
 Prerequisites:
+
 To set up and run this project locally, ensure you have the following installed:
+
 Node.js (v16 or higher is recommended)
 npm (comes with Node.js)
+
 
 Setup Instructions:
 1.Install Dependencies
