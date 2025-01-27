@@ -11,11 +11,11 @@ To set up and run this project locally, ensure you have the following installed:
 
 ## Setup Instructions
 
-### 1. Install Dependencies
-
-Run the following commands to install all required packages:
 
 ```bash
+#1. Install Dependencies
+#Run the following commands to install all required packages:
+
 npm install
 npm install react react-dom
 npm install -D tailwindcss postcss autoprefixer
